@@ -1,0 +1,174 @@
+.background{
+
+    background-color: rgb(3, 50, 95);
+}
+.logo_colegio{
+
+     
+      margin-left: 720px;
+}
+.texto1{
+    margin-left: 750px;
+    color: whitesmoke
+    
+}
+.foto_login{
+    margin-top: -45px;
+    width: 600px;
+    height: 600px;
+}
+
+.botao_aluno{
+
+  
+    margin-left: 450px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: transform 0.5s;
+    
+}
+
+.botao_aluno:hover{
+
+    transform: scale(1.05);
+
+
+}
+.botao_gestor{
+
+  
+    margin-left: 400px;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition:transform 0.5s;
+
+
+}
+.botao_gestor:hover{
+
+    transform: scale(1.05);
+}
+.student_image{
+
+    width: 100px;
+    height: 100px;
+}
+
+.gestor_image{
+
+    width: 100px;
+    height: 100px;
+}
+
+
+
+.login{
+    font-family: 'Arimo', sans-serif;
+    background: #2f2841;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+    border-radius: 50px;
+    color: white;
+
+}
+
+
+.text_login{
+    display: flex;
+    justify-content: center;
+    
+}
+
+input{
+    padding: 15px;
+    border-radius: 20px;
+    width: 16rem;
+
+}
+
+.button_login{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 50px;
+    width: 18rem;
+    cursor: pointer;
+    background: #00ff88;
+}
+
+.criar_conta{
+    
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.register{
+    font-family: 'Arimo', sans-serif;
+    background: #2f2841;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    padding: 30px;
+    border-radius: 50px;
+    color: white;
+
+}
+
+
+.text_register{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.button_register{
+    padding: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 50px;
+    width: 18rem;
+    cursor: pointer;
+    background: #00ff88;
+}
+
+
+
+.botao_return
+{
+    
+
+    margin-left: 1700px;
+    margin-top: -100px;
+    width: 154px;
+    height: 154px;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: transform 0.5s;
+   
+}
+.botao_return:hover{
+
+    transform: scale(1.05);
+
+
+}
+
+
+.return_image{
+
+    width: 100px;
+    height: 100px;
+
+
+}
